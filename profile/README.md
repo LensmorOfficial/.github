@@ -24,6 +24,17 @@
 
 ---
 
+### Core Data Highlights
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>5,000+</strong><br />Events tracked</td>
+    <td align="center"><strong>120+</strong><br />Industries covered</td>
+    <td align="center"><strong>80+</strong><br />Countries mapped</td>
+    <td align="center"><strong>1M+</strong><br />Exhibitors analyzed</td>
+  </tr>
+</table>
+
 ### What is Lensmor?
 
 Lensmor is an AI-powered platform that helps B2B companies **discover the right trade shows**, **identify high-value exhibitors**, and **generate qualified leads** — all before you set foot on the show floor.
@@ -40,7 +51,7 @@ We believe the trade show industry benefits from open data and shared knowledge.
 | Repository | Description |
 |:---|:---|
 | [awesome-trade-shows](https://github.com/LensmorOfficial/awesome-trade-shows) | A curated list of trade shows, tools, and resources for exhibition professionals |
-| [trade-show-data](https://github.com/LensmorOfficial/trade-show-data) | Open dataset of global trade shows and exhibitions *(coming soon)* |
+| [trade-show-calendar](https://github.com/LensmorOfficial/trade-show-calendar) | Open dataset of global trade shows with dates and locations |
 
 ### Get Involved
 
