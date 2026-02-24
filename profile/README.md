@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.lensmor.com/">
-    <img src="https://www.lensmor.com/images/lensmor-logo.png" alt="Lensmor" width="200">
+    <img src="[https://www.lensmor.com/images/lensmor-logo.png](https://cdn.prod.website-files.com/691bdb22805dbb6a57758d15/691bde9132ab7532c68b6f51_Logo-white.svg)" alt="Lensmor" width="200">
   </a>
 </p>
 
