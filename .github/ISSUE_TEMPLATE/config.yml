@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Lensmor platform
+    url: https://www.lensmor.com/
+    about: Learn more about Lensmor trade show intelligence
+  - name: Suggest a resource
+    url: https://github.com/LensmorOfficial/awesome-trade-shows/issues/new?template=submit-trade-show.yml
+    about: Propose a trade show or resource for the awesome list

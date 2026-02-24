@@ -1,0 +1,17 @@
+name: General feedback
+description: Share feedback or ideas for Lensmor open source
+title: "Feedback: "
+labels: ["feedback"]
+body:
+  - type: textarea
+    id: feedback
+    attributes:
+      label: Feedback
+      description: What should we improve or build next?
+    validations:
+      required: true
+  - type: input
+    id: repo
+    attributes:
+      label: Related repository (optional)
+      placeholder: https://github.com/LensmorOfficial/awesome-trade-shows

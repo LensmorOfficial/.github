@@ -7,12 +7,19 @@
 <h3 align="center">AI-Native Event Intelligence & GTM Signal Platform</h3>
 
 <p align="center">
+  <a href="https://github.com/LensmorOfficial/awesome-trade-shows/stargazers"><img src="https://img.shields.io/github/stars/LensmorOfficial/awesome-trade-shows?style=flat" alt="Awesome Trade Shows stars"></a>
+  <a href="https://github.com/LensmorOfficial/awesome-trade-shows/commits/main"><img src="https://img.shields.io/github/last-commit/LensmorOfficial/awesome-trade-shows?style=flat" alt="Awesome Trade Shows last commit"></a>
+  <a href="https://github.com/LensmorOfficial"><img src="https://img.shields.io/github/followers/LensmorOfficial?style=flat" alt="GitHub followers"></a>
+</p>
+
+<p align="center">
   Transform global trade show attendees into high-intent sales opportunities.
   <br />
   <a href="https://www.lensmor.com/"><strong>Website</strong></a> &nbsp;&middot;&nbsp;
   <a href="https://www.lensmor.com/blog"><strong>Blog</strong></a> &nbsp;&middot;&nbsp;
   <a href="https://twitter.com/Lensmor_ai"><strong>Twitter</strong></a> &nbsp;&middot;&nbsp;
-  <a href="https://www.linkedin.com/company/lensmor/"><strong>LinkedIn</strong></a>
+  <a href="https://www.linkedin.com/company/lensmor/"><strong>LinkedIn</strong></a> &nbsp;&middot;&nbsp;
+  <a href="https://www.lensmor.com/"><strong>Request a demo</strong></a>
 </p>
 
 ---
