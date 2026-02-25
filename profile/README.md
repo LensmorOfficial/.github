@@ -53,6 +53,7 @@ We believe the trade show industry benefits from open data and shared knowledge.
 | [awesome-trade-shows](https://github.com/LensmorOfficial/awesome-trade-shows) | A curated list of trade shows, tools, and resources for exhibition professionals |
 | [trade-show-calendar](https://github.com/LensmorOfficial/trade-show-calendar) | Open dataset of global trade shows with dates and locations |
 | [exhibitor-intelligence-playbook](https://github.com/LensmorOfficial/exhibitor-intelligence-playbook) | The complete B2B trade show ROI playbook — from research to conversion |
+| [event-tech-landscape](https://github.com/LensmorOfficial/event-tech-landscape) | A comprehensive map of tools powering the trade show industry |
 
 ### Get Involved
 
