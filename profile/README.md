@@ -63,6 +63,7 @@ We believe the trade show industry benefits from open data and shared knowledge.
 | [exhibitor-intelligence-playbook](https://github.com/LensmorOfficial/exhibitor-intelligence-playbook) | The complete B2B trade show ROI playbook — from research to conversion |
 | [event-tech-landscape](https://github.com/LensmorOfficial/event-tech-landscape) | A comprehensive map of tools powering the trade show industry |
 | [trade-show-email-templates](https://github.com/LensmorOfficial/trade-show-email-templates) | Ready-to-use email templates for trade show outreach and follow-up |
+| [trade-show-linkedin-templates](https://github.com/LensmorOfficial/trade-show-linkedin-templates) | Ready-to-use LinkedIn message templates for trade show prospecting and follow-up |
 | [trade-show-skills](https://github.com/LensmorOfficial/trade-show-skills) | AI-powered Claude Code skills for trade show automation |
 | [trade-show-world-map](https://github.com/LensmorOfficial/trade-show-world-map) | Interactive global map of major trade shows by region and industry |
 | [trade-show-tools](https://github.com/LensmorOfficial/trade-show-tools) | Open-source tools for trade show ROI, lead qualification, and ICP matching |
