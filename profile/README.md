@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/LensmorOfficial/awesome-trade-shows/stargazers"><img src="https://img.shields.io/github/stars/LensmorOfficial/awesome-trade-shows?style=flat" alt="Awesome Trade Shows stars"></a>
-  <a href="https://github.com/LensmorOfficial/awesome-trade-shows/commits/main"><img src="https://img.shields.io/github/last-commit/LensmorOfficial/awesome-trade-shows?style=flat" alt="Awesome Trade Shows last commit"></a>
+  <a href="https://github.com/LensmorOfficial/trade-show-skills/stargazers"><img src="https://img.shields.io/github/stars/LensmorOfficial/trade-show-skills?style=flat&label=trade-show-skills%20stars" alt="trade-show-skills stars"></a>
+  <a href="https://github.com/LensmorOfficial/awesome-trade-shows/stargazers"><img src="https://img.shields.io/github/stars/LensmorOfficial/awesome-trade-shows?style=flat&label=awesome-trade-shows%20stars" alt="awesome-trade-shows stars"></a>
   <a href="https://github.com/LensmorOfficial"><img src="https://img.shields.io/github/followers/LensmorOfficial?style=flat" alt="GitHub followers"></a>
 </p>
 
@@ -54,24 +54,36 @@ Built for B2B sales teams uncovering high-intent prospects before major shows, e
 
 ### Open Source
 
-We believe the trade show industry benefits from open data and shared knowledge. Our open source projects:
+We believe the trade show industry benefits from open data and shared knowledge.
+
+#### Featured
+
+| Repository | Stars | Description |
+|:---|:---:|:---|
+| [trade-show-skills](https://github.com/LensmorOfficial/trade-show-skills) | ![](https://img.shields.io/github/stars/LensmorOfficial/trade-show-skills?style=flat-square&label=) | AI-powered Claude Code skills for trade show planning, outreach, and lead qualification |
+| [awesome-trade-shows](https://github.com/LensmorOfficial/awesome-trade-shows) | ![](https://img.shields.io/github/stars/LensmorOfficial/awesome-trade-shows?style=flat-square&label=) | Curated list of trade shows, event tech tools, and resources worldwide |
+| [trade-show-email-templates](https://github.com/LensmorOfficial/trade-show-email-templates) | ![](https://img.shields.io/github/stars/LensmorOfficial/trade-show-email-templates?style=flat-square&label=) | Ready-to-use email templates for pre-show, onsite, and post-show outreach |
+
+#### Data & Tools
 
 | Repository | Description |
 |:---|:---|
-| [awesome-trade-shows](https://github.com/LensmorOfficial/awesome-trade-shows) | A curated list of trade shows, tools, and resources for exhibition professionals |
-| [trade-show-calendar](https://github.com/LensmorOfficial/trade-show-calendar) | Open dataset of global trade shows with dates and locations |
-| [exhibitor-intelligence-playbook](https://github.com/LensmorOfficial/exhibitor-intelligence-playbook) | The complete B2B trade show ROI playbook — from research to conversion |
-| [event-tech-landscape](https://github.com/LensmorOfficial/event-tech-landscape) | A comprehensive map of tools powering the trade show industry |
-| [trade-show-email-templates](https://github.com/LensmorOfficial/trade-show-email-templates) | Ready-to-use email templates for trade show outreach and follow-up |
-| [trade-show-linkedin-templates](https://github.com/LensmorOfficial/trade-show-linkedin-templates) | Ready-to-use LinkedIn message templates for trade show prospecting and follow-up |
-| [trade-show-skills](https://github.com/LensmorOfficial/trade-show-skills) | AI-powered Claude Code skills for trade show automation |
-| [trade-show-world-map](https://github.com/LensmorOfficial/trade-show-world-map) | Interactive global map of major trade shows by region and industry |
-| [trade-show-tools](https://github.com/LensmorOfficial/trade-show-tools) | Open-source tools for trade show ROI, lead qualification, and ICP matching |
-| [API-Doc](https://github.com/LensmorOfficial/API-Doc) | Official API documentation for Lensmor — access global trade show and exhibitor data |
+| [trade-show-calendar](https://github.com/LensmorOfficial/trade-show-calendar) | Open dataset of global trade shows — CSV/JSON, dates, locations, industries |
+| [trade-show-world-map](https://github.com/LensmorOfficial/trade-show-world-map) | Interactive world map of 200+ trade shows — filter by region and industry |
+| [trade-show-tools](https://github.com/LensmorOfficial/trade-show-tools) | 9 free AI tools — ROI calculator, ICP matcher, badge qualifier, and more |
+| [API-Doc](https://github.com/LensmorOfficial/API-Doc) | Lensmor REST API docs — access exhibitor, trade show, and contact data |
+
+#### Playbooks & Templates
+
+| Repository | Description |
+|:---|:---|
+| [exhibitor-intelligence-playbook](https://github.com/LensmorOfficial/exhibitor-intelligence-playbook) | End-to-end B2B trade show ROI playbook — research to conversion |
+| [event-tech-landscape](https://github.com/LensmorOfficial/event-tech-landscape) | Comprehensive map of 100+ tools powering the trade show industry |
+| [trade-show-linkedin-templates](https://github.com/LensmorOfficial/trade-show-linkedin-templates) | 30+ LinkedIn message templates for exhibitor prospecting and follow-up |
 
 ### Get Involved
 
-- Star our repos if you find them useful — it helps others discover them
-- Browse our [open source projects](https://github.com/orgs/LensmorOfficial/repositories)
-- Contribute to [awesome-trade-shows](https://github.com/LensmorOfficial/awesome-trade-shows) — PRs welcome!
-- Follow us for industry insights: [@Lensmor_ai](https://twitter.com/Lensmor_ai)
+- **Star [trade-show-skills](https://github.com/LensmorOfficial/trade-show-skills)** — our most popular repo, automates trade show workflows with AI
+- **Contribute to [awesome-trade-shows](https://github.com/LensmorOfficial/awesome-trade-shows)** — PRs welcome, help us build the definitive trade show directory
+- **Try [trade-show-tools](https://lensmorofficial.github.io/trade-show-tools/)** — 9 free browser-based tools, no signup required
+- **Follow [@Lensmor_ai](https://twitter.com/Lensmor_ai)** for trade show industry insights
