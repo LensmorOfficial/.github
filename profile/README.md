@@ -32,10 +32,10 @@
 
 <table align="center">
   <tr>
-    <td align="center"><strong>5,000+</strong><br />Events tracked</td>
+    <td align="center"><strong>160K+</strong><br />Events tracked</td>
     <td align="center"><strong>120+</strong><br />Industries covered</td>
     <td align="center"><strong>80+</strong><br />Countries mapped</td>
-    <td align="center"><strong>1M+</strong><br />Exhibitors analyzed</td>
+    <td align="center"><strong>10M+</strong><br />Data points</td>
   </tr>
 </table>
 
