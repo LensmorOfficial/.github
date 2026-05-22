@@ -7,23 +7,26 @@
 <h3 align="center">AI-Native Event Intelligence & GTM Signal Platform</h3>
 
 <p align="center">
-  <strong><a href="https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=org-profile">Lensmor</a> — Trade show intelligence platform. Find exhibitors, track competitors, and discover opportunities.</strong>
+  <strong>Turn 160K+ global trade shows into a pipeline of high-intent, sales-ready opportunities — before the show floor even opens.</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/LensmorOfficial/trade-show-skills/stargazers"><img src="https://img.shields.io/github/stars/LensmorOfficial/trade-show-skills?style=flat&label=trade-show-skills%20stars" alt="trade-show-skills stars"></a>
-  <a href="https://github.com/LensmorOfficial/awesome-trade-shows/stargazers"><img src="https://img.shields.io/github/stars/LensmorOfficial/awesome-trade-shows?style=flat&label=awesome-trade-shows%20stars" alt="awesome-trade-shows stars"></a>
-  <a href="https://github.com/LensmorOfficial"><img src="https://img.shields.io/github/followers/LensmorOfficial?style=flat" alt="GitHub followers"></a>
+  <a href="https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=org-profile-cta"><img src="https://img.shields.io/badge/Request%20a%20demo-2563eb?style=for-the-badge&logoColor=white" alt="Request a demo"></a>
+  &nbsp;
+  <a href="https://lensmorofficial.github.io/trade-show-tools/?utm_source=github&utm_medium=readme&utm_campaign=org-profile-cta"><img src="https://img.shields.io/badge/Try%20free%20tools-16a34a?style=for-the-badge&logoColor=white" alt="Try free tools"></a>
 </p>
 
 <p align="center">
-  Transform global trade show attendees into high-intent sales opportunities.
-  <br />
   <a href="https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=org-profile"><strong>Website</strong></a> &nbsp;&middot;&nbsp;
   <a href="https://www.lensmor.com/blog?utm_source=github&utm_medium=readme&utm_campaign=org-profile"><strong>Blog</strong></a> &nbsp;&middot;&nbsp;
-  <a href="https://twitter.com/Lensmor_ai"><strong>Twitter</strong></a> &nbsp;&middot;&nbsp;
-  <a href="https://www.linkedin.com/company/lensmor/"><strong>LinkedIn</strong></a> &nbsp;&middot;&nbsp;
-  <a href="https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=org-profile"><strong>Request a demo</strong></a>
+  <a href="https://twitter.com/Lensmor_ai"><strong>Twitter / X</strong></a> &nbsp;&middot;&nbsp;
+  <a href="https://www.linkedin.com/company/lensmor/"><strong>LinkedIn</strong></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/LensmorOfficial/trade-show-skills/stargazers"><img src="https://img.shields.io/github/stars/LensmorOfficial/trade-show-skills?style=flat&label=trade-show-skills" alt="trade-show-skills stars"></a>
+  <a href="https://github.com/LensmorOfficial/awesome-trade-shows/stargazers"><img src="https://img.shields.io/github/stars/LensmorOfficial/awesome-trade-shows?style=flat&label=awesome-trade-shows" alt="awesome-trade-shows stars"></a>
+  <a href="https://github.com/LensmorOfficial/trade-show-email-templates/stargazers"><img src="https://img.shields.io/github/stars/LensmorOfficial/trade-show-email-templates?style=flat&label=email-templates" alt="email-templates stars"></a>
 </p>
 
 ---
@@ -48,19 +51,23 @@ Lensmor is an AI-powered platform that helps B2B companies **discover the right 
 - **Pre-Show Lead Generation** — Build targeted prospect lists from exhibitor data with AI-enriched insights
 - **Competitive Analysis** — Track competitors' exhibition activity and benchmark your trade show strategy
 
-### Who Is This For? / Use Cases
-
 Built for B2B sales teams uncovering high-intent prospects before major shows, event organizers benchmarking exhibitor mixes, and exhibition professionals planning go-to-market outreach.
 
-### Open Source
+<p align="center">
+  <a href="https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=org-profile-whatis"><strong>See it live — request a demo →</strong></a>
+</p>
 
-We believe the trade show industry benefits from open data and shared knowledge.
+---
+
+### Free Tools & Open Resources
+
+Start here for free. These tools and datasets give you a taste of Lensmor's data — when you're ready for live exhibitor intelligence across 160K+ events, [book a demo](https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=org-profile-oss).
 
 #### Featured
 
 | Repository | Stars | Description |
 |:---|:---:|:---|
-| [trade-show-skills](https://github.com/LensmorOfficial/trade-show-skills) | ![](https://img.shields.io/github/stars/LensmorOfficial/trade-show-skills?style=flat-square&label=) | AI-powered Claude Code skills for trade show planning, outreach, and lead qualification |
+| [trade-show-skills](https://github.com/LensmorOfficial/trade-show-skills) | ![](https://img.shields.io/github/stars/LensmorOfficial/trade-show-skills?style=flat-square&label=) | AI-powered agent skills that automate trade show planning, outreach, and lead qualification |
 | [awesome-trade-shows](https://github.com/LensmorOfficial/awesome-trade-shows) | ![](https://img.shields.io/github/stars/LensmorOfficial/awesome-trade-shows?style=flat-square&label=) | Curated list of trade shows, event tech tools, and resources worldwide |
 | [trade-show-email-templates](https://github.com/LensmorOfficial/trade-show-email-templates) | ![](https://img.shields.io/github/stars/LensmorOfficial/trade-show-email-templates?style=flat-square&label=) | Ready-to-use email templates for pre-show, onsite, and post-show outreach |
 
@@ -81,9 +88,12 @@ We believe the trade show industry benefits from open data and shared knowledge.
 | [event-tech-landscape](https://github.com/LensmorOfficial/event-tech-landscape) | Comprehensive map of 100+ tools powering the trade show industry |
 | [trade-show-linkedin-templates](https://github.com/LensmorOfficial/trade-show-linkedin-templates) | 30+ LinkedIn message templates for exhibitor prospecting and follow-up |
 
+> **Ready for the full platform?** The repos above are a starting point. Lensmor gives you live exhibitor intelligence, AI-enriched contacts, and competitive tracking across every show that matters. **[Request a demo →](https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=org-profile-ready)**
+
 ### Get Involved
 
+- **[Request a demo](https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=org-profile-involved)** — see live exhibitor intelligence for your next show
+- **Try [trade-show-tools](https://lensmorofficial.github.io/trade-show-tools/?utm_source=github&utm_medium=readme&utm_campaign=org-profile-involved)** — 9 free browser-based tools, no signup required
 - **Star [trade-show-skills](https://github.com/LensmorOfficial/trade-show-skills)** — our most popular repo, automates trade show workflows with AI
 - **Contribute to [awesome-trade-shows](https://github.com/LensmorOfficial/awesome-trade-shows)** — PRs welcome, help us build the definitive trade show directory
-- **Try [trade-show-tools](https://lensmorofficial.github.io/trade-show-tools/)** — 9 free browser-based tools, no signup required
 - **Follow [@Lensmor_ai](https://twitter.com/Lensmor_ai)** for trade show industry insights

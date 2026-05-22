@@ -1,0 +1,30 @@
+name: Data correction
+description: Report incorrect or missing trade show data (calendar, world map, lists)
+title: "Data: "
+labels: ["data"]
+body:
+  - type: dropdown
+    id: dataset
+    attributes:
+      label: Which dataset?
+      options:
+        - trade-show-calendar
+        - trade-show-world-map
+        - awesome-trade-shows
+        - event-tech-landscape
+        - Other / not sure
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: What's wrong or missing?
+      description: Describe the incorrect entry, or the trade show / resource to add.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source link
+      description: Official event page or organizer URL, if available.
+      placeholder: https://...

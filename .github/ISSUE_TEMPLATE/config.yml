@@ -1,7 +1,10 @@
 blank_issues_enabled: false
 contact_links:
+  - name: Request a demo
+    url: https://www.lensmor.com/?utm_source=github&utm_medium=issue_template&utm_campaign=org-profile
+    about: See live exhibitor intelligence for your next trade show
   - name: Lensmor platform
-    url: https://www.lensmor.com/
+    url: https://www.lensmor.com/?utm_source=github&utm_medium=issue_template&utm_campaign=org-profile
     about: Learn more about Lensmor trade show intelligence
   - name: Suggest a resource
     url: https://github.com/LensmorOfficial/awesome-trade-shows/issues/new?template=submit-trade-show.yml
