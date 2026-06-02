@@ -7,7 +7,7 @@
 <h3 align="center">AI-Native Event Intelligence & GTM Signal Platform</h3>
 
 <p align="center">
-  <strong><a href="https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=org-profile">Lensmor</a> — Trade show intelligence platform. Find exhibitors, track competitors, and discover opportunities.</strong>
+  <strong><a href="https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=org-profile">Lensmor</a> turns trade show data into ranked accounts, buyer contacts, meeting-request drafts, follow-up sequences, and booked-meeting pipeline.</strong>
 </p>
 
 <p align="center">
@@ -21,6 +21,7 @@
   <br />
   <a href="https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=org-profile"><strong>Website</strong></a> &nbsp;&middot;&nbsp;
   <a href="https://www.lensmor.com/blog?utm_source=github&utm_medium=readme&utm_campaign=org-profile"><strong>Blog</strong></a> &nbsp;&middot;&nbsp;
+  <a href="https://api.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=org-profile"><strong>API Docs</strong></a> &nbsp;&middot;&nbsp;
   <a href="https://twitter.com/Lensmor_ai"><strong>Twitter</strong></a> &nbsp;&middot;&nbsp;
   <a href="https://www.linkedin.com/company/lensmor/"><strong>LinkedIn</strong></a> &nbsp;&middot;&nbsp;
   <a href="https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=org-profile"><strong>Request a demo</strong></a>
@@ -41,16 +42,26 @@
 
 ### What is Lensmor?
 
-Lensmor is an AI-powered platform that helps B2B companies **discover the right trade shows**, **identify high-value exhibitors**, and **generate qualified leads** — all before you set foot on the show floor.
+Lensmor is an AI-powered platform that helps B2B companies **discover the right trade shows**, **identify high-value exhibitors**, and **convert pre-show signals into meeting opportunities** before they set foot on the show floor.
 
-- **Exhibitor Intelligence** — Search and analyze exhibitors across thousands of global trade shows
-- **Trade Show Discovery** — Find the best events for your industry, region, and growth goals
-- **Pre-Show Lead Generation** — Build targeted prospect lists from exhibitor data with AI-enriched insights
-- **Competitive Analysis** — Track competitors' exhibition activity and benchmark your trade show strategy
+- **Trade Show Discovery** - Find events by industry, region, timing, and growth goal.
+- **Exhibitor Intelligence** - Search exhibitors, understand fit, and prioritize the right target accounts.
+- **Buyer Contact Workflow** - Move from account shortlist to relevant contacts, outreach drafts, follow-ups, and booking links.
+- **Competitive Signals** - Track competitor exhibition activity and benchmark your go-to-market plan.
 
 ### Who Is This For? / Use Cases
 
 Built for B2B sales teams uncovering high-intent prospects before major shows, event organizers benchmarking exhibitor mixes, and exhibition professionals planning go-to-market outreach.
+
+### Start Here
+
+| If you are... | Start with | Outcome |
+|:---|:---|:---|
+| A sales or GTM team | [trade-show-tools](https://github.com/LensmorOfficial/trade-show-tools) | Free calculators, scorers, and browser tools for show planning and pre-show lead work |
+| A developer | [API-Doc](https://github.com/LensmorOfficial/API-Doc) | REST API docs for event, exhibitor, personnel, contact, and profile-matching workflows |
+| An agent workflow builder | [trade-show-skills](https://github.com/LensmorOfficial/trade-show-skills) | OpenClaw skills for show selection, outreach, budgeting, onsite qualification, and post-show follow-up |
+| A market researcher | [trade-show-calendar](https://github.com/LensmorOfficial/trade-show-calendar) and [trade-show-world-map](https://github.com/LensmorOfficial/trade-show-world-map) | Open trade show datasets and visual exploration |
+| A contributor | [awesome-trade-shows](https://github.com/LensmorOfficial/awesome-trade-shows) | Help maintain the public trade show resource graph |
 
 ### Open Source
 
@@ -71,7 +82,7 @@ We believe the trade show industry benefits from open data and shared knowledge.
 | [trade-show-calendar](https://github.com/LensmorOfficial/trade-show-calendar) | Open dataset of global trade shows — CSV/JSON, dates, locations, industries |
 | [trade-show-world-map](https://github.com/LensmorOfficial/trade-show-world-map) | Interactive world map of 200+ trade shows — filter by region and industry |
 | [trade-show-tools](https://github.com/LensmorOfficial/trade-show-tools) | 9 free AI tools — ROI calculator, ICP matcher, badge qualifier, and more |
-| [API-Doc](https://github.com/LensmorOfficial/API-Doc) | Lensmor REST API docs — access exhibitor, trade show, and contact data |
+| [API-Doc](https://github.com/LensmorOfficial/API-Doc) | Lensmor REST API docs — access event, exhibitor, personnel, contact, and profile-matching workflows |
 
 #### Playbooks & Templates
 
