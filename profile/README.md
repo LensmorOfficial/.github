@@ -1,30 +1,24 @@
-<p align="center">
-  <a href="https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=org-profile">
-    <img src="https://raw.githubusercontent.com/LensmorOfficial/.github/main/profile/assets/banner.png" alt="Lensmor" width="600">
-  </a>
-</p>
+<h1 align="center">
+  <a href="https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=org-profile">Lensmor</a>
+</h1>
 
-<h3 align="center">AI-Native Event Intelligence & GTM Signal Platform</h3>
+<h3 align="center">AI-Native Event Intelligence for Pre-Show GTM</h3>
 
 <p align="center">
-  <strong><a href="https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=org-profile">Lensmor</a> turns trade show data into ranked accounts, buyer contacts, meeting-request drafts, follow-up sequences, and booked-meeting pipeline.</strong>
+  <strong>Move from event → company → people → outreach.</strong>
+  <br />
+  Lensmor helps B2B teams use event and exhibitor signals to prioritize accounts, identify relevant decision-makers, and prepare pre-show outreach.
 </p>
 
 <p align="center">
   <a href="https://github.com/LensmorOfficial/trade-show-skills/stargazers"><img src="https://img.shields.io/github/stars/LensmorOfficial/trade-show-skills?style=flat&label=trade-show-skills%20stars" alt="trade-show-skills stars"></a>
   <a href="https://github.com/LensmorOfficial/awesome-trade-shows/stargazers"><img src="https://img.shields.io/github/stars/LensmorOfficial/awesome-trade-shows?style=flat&label=awesome-trade-shows%20stars" alt="awesome-trade-shows stars"></a>
-  <a href="https://github.com/LensmorOfficial"><img src="https://img.shields.io/github/followers/LensmorOfficial?style=flat" alt="GitHub followers"></a>
 </p>
 
 <p align="center">
-  Transform global trade show attendees into high-intent sales opportunities.
-  <br />
-  <a href="https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=org-profile"><strong>Website</strong></a> &nbsp;&middot;&nbsp;
-  <a href="https://www.lensmor.com/blog?utm_source=github&utm_medium=readme&utm_campaign=org-profile"><strong>Blog</strong></a> &nbsp;&middot;&nbsp;
+  <a href="https://app.lensmor.com/signup?utm_source=github&utm_medium=readme&utm_campaign=org-profile"><strong>Start free</strong></a> &nbsp;&middot;&nbsp;
   <a href="https://api.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=org-profile"><strong>API Docs</strong></a> &nbsp;&middot;&nbsp;
-  <a href="https://twitter.com/Lensmor_ai"><strong>Twitter</strong></a> &nbsp;&middot;&nbsp;
-  <a href="https://www.linkedin.com/company/lensmor/"><strong>LinkedIn</strong></a> &nbsp;&middot;&nbsp;
-  <a href="https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=org-profile"><strong>Request a demo</strong></a>
+  <a href="https://calendly.com/shirleyan_lensmor/30min?utm_source=github&utm_medium=readme&utm_campaign=org-profile"><strong>Book a demo</strong></a>
 </p>
 
 ---
@@ -40,25 +34,26 @@
   </tr>
 </table>
 
+Coverage varies by event and source. Validate the events and data fields you need in [Lensmor](https://app.lensmor.com/signup?utm_source=github&utm_medium=readme&utm_campaign=org-profile) or through the [API](https://api.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=org-profile).
+
 ### What is Lensmor?
 
-Lensmor is an AI-powered platform that helps B2B companies **discover the right trade shows**, **identify high-value exhibitors**, and **convert pre-show signals into meeting opportunities** before they set foot on the show floor.
+Lensmor is an AI-native event intelligence platform that helps B2B teams turn trade show data into a structured pre-show GTM workflow.
 
-- **Trade Show Discovery** - Find events by industry, region, timing, and growth goal.
-- **Exhibitor Intelligence** - Search exhibitors, understand fit, and prioritize the right target accounts.
-- **Buyer Contact Workflow** - Move from account shortlist to relevant contacts, outreach drafts, follow-ups, and booking links.
-- **Competitive Signals** - Track competitor exhibition activity and benchmark your go-to-market plan.
+| 1. Event | 2. Company | 3. People | 4. Outreach |
+|:---|:---|:---|:---|
+| Discover relevant shows by industry, region, timing, and goal | Evaluate exhibitors and prioritize target accounts | Identify relevant decision-makers and available contact data | Export or connect contact-ready data to your sales workflow |
 
 ### Who Is This For? / Use Cases
 
-Built for B2B sales teams uncovering high-intent prospects before major shows, event organizers benchmarking exhibitor mixes, and exhibition professionals planning go-to-market outreach.
+Built for B2B sales and GTM teams, founders, agencies, and developers who need structured event, exhibitor, account, and contact workflows before major trade shows.
 
 ### Start Here
 
 | If you are... | Start with | Outcome |
 |:---|:---|:---|
-| A sales or GTM team | [trade-show-tools](https://github.com/LensmorOfficial/trade-show-tools) | Free calculators, scorers, and browser tools for show planning and pre-show lead work |
-| A developer | [API-Doc](https://github.com/LensmorOfficial/API-Doc) | REST API docs for event, exhibitor, personnel, contact, and profile-matching workflows |
+| A sales or GTM team | [Start Lensmor free](https://app.lensmor.com/signup?utm_source=github&utm_medium=readme&utm_campaign=org-profile) | Move from event discovery to prioritized accounts, decision-makers, and contact-ready workflows |
+| A developer | [API Docs](https://api.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=org-profile) | Build with event, exhibitor, personnel, contact, and profile-matching APIs |
 | An agent workflow builder | [trade-show-skills](https://github.com/LensmorOfficial/trade-show-skills) | OpenClaw skills for show selection, outreach, budgeting, onsite qualification, and post-show follow-up |
 | A market researcher | [trade-show-calendar](https://github.com/LensmorOfficial/trade-show-calendar) and [trade-show-world-map](https://github.com/LensmorOfficial/trade-show-world-map) | Open trade show datasets and visual exploration |
 | A contributor | [awesome-trade-shows](https://github.com/LensmorOfficial/awesome-trade-shows) | Help maintain the public trade show resource graph |
@@ -71,7 +66,7 @@ We believe the trade show industry benefits from open data and shared knowledge.
 
 | Repository | Stars | Description |
 |:---|:---:|:---|
-| [trade-show-skills](https://github.com/LensmorOfficial/trade-show-skills) | ![](https://img.shields.io/github/stars/LensmorOfficial/trade-show-skills?style=flat-square&label=) | AI-powered Claude Code skills for trade show planning, outreach, and lead qualification |
+| [trade-show-skills](https://github.com/LensmorOfficial/trade-show-skills) | ![](https://img.shields.io/github/stars/LensmorOfficial/trade-show-skills?style=flat-square&label=) | OpenClaw skills for trade show planning, outreach, and lead qualification |
 | [awesome-trade-shows](https://github.com/LensmorOfficial/awesome-trade-shows) | ![](https://img.shields.io/github/stars/LensmorOfficial/awesome-trade-shows?style=flat-square&label=) | Curated list of trade shows, event tech tools, and resources worldwide |
 | [trade-show-email-templates](https://github.com/LensmorOfficial/trade-show-email-templates) | ![](https://img.shields.io/github/stars/LensmorOfficial/trade-show-email-templates?style=flat-square&label=) | Ready-to-use email templates for pre-show, onsite, and post-show outreach |
 
@@ -94,6 +89,7 @@ We believe the trade show industry benefits from open data and shared knowledge.
 
 ### Get Involved
 
+- **[Start Lensmor free](https://app.lensmor.com/signup?utm_source=github&utm_medium=readme&utm_campaign=org-profile)** — explore events and begin a pre-show workflow
 - **Star [trade-show-skills](https://github.com/LensmorOfficial/trade-show-skills)** — our most popular repo, automates trade show workflows with AI
 - **Contribute to [awesome-trade-shows](https://github.com/LensmorOfficial/awesome-trade-shows)** — PRs welcome, help us build the definitive trade show directory
 - **Try [trade-show-tools](https://lensmorofficial.github.io/trade-show-tools/)** — 9 free browser-based tools, no signup required
