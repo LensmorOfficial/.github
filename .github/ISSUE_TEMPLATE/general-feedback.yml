@@ -1,7 +1,6 @@
 name: General feedback
 description: Share feedback or ideas for Lensmor open source
 title: "Feedback: "
-labels: ["feedback"]
 body:
   - type: textarea
     id: feedback

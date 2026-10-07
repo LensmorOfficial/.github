@@ -1,0 +1,31 @@
+name: Bug or documentation problem
+description: Report a reproducible problem in a Lensmor open-source resource
+title: "Bug: "
+body:
+  - type: input
+    id: location
+    attributes:
+      label: Affected page, file, or tool
+      placeholder: Link to the page or file
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce
+      description: Include your environment or version when relevant. Remove API keys and private data.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual result
+      description: Include a redacted error message or screenshot if useful.
+    validations:
+      required: true
