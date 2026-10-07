@@ -22,7 +22,7 @@
 
 | What you want to do | Start here | What you get |
 |:---|:---|:---|
-| Choose a show and plan your outreach | [Trade Show Skills](https://github.com/LensmorOfficial/trade-show-skills#try-it-in-60-seconds) | 15 OpenClaw skills with worked examples for planning, booth execution, and follow-up |
+| Choose a show and plan your outreach | [Trade Show Skills](https://github.com/LensmorOfficial/trade-show-skills#try-a-skill) | 15 Agent Skills with worked examples for planning, booth execution, and follow-up |
 | Research events without signing up | [Calendar](https://lensmorofficial.github.io/trade-show-calendar/) · [World map](https://lensmorofficial.github.io/trade-show-world-map/) | Public event data and filters; confirm the edition and dates with the organizer |
 | Estimate ROI or prepare your booth | [Free browser tools](https://lensmorofficial.github.io/trade-show-tools/) | Calculators and planning tools for trade show teams |
 | Connect event intelligence to your workflow | [API quickstart](https://api.lensmor.com/guides/quickstart) · [API source](https://github.com/LensmorOfficial/API-Doc) | Documented event, exhibitor, personnel, and contact APIs |
