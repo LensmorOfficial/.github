@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Lensmor platform
-    url: https://www.lensmor.com/
-    about: Learn more about Lensmor trade show intelligence
+  - name: Lensmor product and account help
+    url: https://help.lensmor.com/
+    about: Get help with the Lensmor app, API accounts, billing, and subscriptions
   - name: Suggest a resource
-    url: https://github.com/LensmorOfficial/awesome-trade-shows/issues/new?template=submit-trade-show.yml
+    url: https://github.com/LensmorOfficial/awesome-trade-shows/issues/new/choose
     about: Propose a trade show or resource for the awesome list

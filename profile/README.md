@@ -1,96 +1,57 @@
-<h1 align="center">
-  <a href="https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=org-profile">Lensmor</a>
-</h1>
+<p align="center">
+  <a href="https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=banner">
+    <img src="https://raw.githubusercontent.com/LensmorOfficial/.github/main/profile/assets/banner.png" alt="Lensmor — trade show intelligence" width="600">
+  </a>
+</p>
 
-<h3 align="center">AI-Native Event Intelligence for Pre-Show GTM</h3>
+<h1 align="center">Lensmor</h1>
+<h3 align="center">Find the right prospects before your next trade show.</h3>
 
 <p align="center">
-  <strong>Move from event → company → people → outreach.</strong>
-  <br />
-  Lensmor helps B2B teams use event and exhibitor signals to prioritize accounts, identify relevant decision-makers, and prepare pre-show outreach.
+  Open skills, datasets, and practical tools for B2B teams.<br />
+  Move from <strong>event → company → people → outreach</strong>.
 </p>
 
 <p align="center">
-  <a href="https://github.com/LensmorOfficial/trade-show-skills/stargazers"><img src="https://img.shields.io/github/stars/LensmorOfficial/trade-show-skills?style=flat&label=trade-show-skills%20stars" alt="trade-show-skills stars"></a>
-  <a href="https://github.com/LensmorOfficial/awesome-trade-shows/stargazers"><img src="https://img.shields.io/github/stars/LensmorOfficial/awesome-trade-shows?style=flat&label=awesome-trade-shows%20stars" alt="awesome-trade-shows stars"></a>
+  <a href="https://app.lensmor.com/signup?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=header"><strong>Start Lensmor free</strong></a> &nbsp;·&nbsp;
+  <a href="https://api.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=header"><strong>Build with the API</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/LensmorOfficial/trade-show-skills"><strong>Explore open skills</strong></a>
 </p>
 
-<p align="center">
-  <a href="https://app.lensmor.com/signup?utm_source=github&utm_medium=readme&utm_campaign=org-profile"><strong>Start free</strong></a> &nbsp;&middot;&nbsp;
-  <a href="https://api.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=org-profile"><strong>API Docs</strong></a> &nbsp;&middot;&nbsp;
-  <a href="https://calendly.com/shirleyan_lensmor/30min?utm_source=github&utm_medium=readme&utm_campaign=org-profile"><strong>Book a demo</strong></a>
-</p>
+### Start with your next task
 
----
-
-### Core Data Highlights
-
-<table align="center">
-  <tr>
-    <td align="center"><strong>160K+</strong><br />Events tracked</td>
-    <td align="center"><strong>120+</strong><br />Industries covered</td>
-    <td align="center"><strong>80+</strong><br />Countries mapped</td>
-    <td align="center"><strong>10M+</strong><br />Data points</td>
-  </tr>
-</table>
-
-Coverage varies by event and source. Validate the events and data fields you need in [Lensmor](https://app.lensmor.com/signup?utm_source=github&utm_medium=readme&utm_campaign=org-profile) or through the [API](https://api.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=org-profile).
-
-### What is Lensmor?
-
-Lensmor is an AI-native event intelligence platform that helps B2B teams turn trade show data into a structured pre-show GTM workflow.
-
-| 1. Event | 2. Company | 3. People | 4. Outreach |
-|:---|:---|:---|:---|
-| Discover relevant shows by industry, region, timing, and goal | Evaluate exhibitors and prioritize target accounts | Identify relevant decision-makers and available contact data | Export or connect contact-ready data to your sales workflow |
-
-### Who Is This For? / Use Cases
-
-Built for B2B sales and GTM teams, founders, agencies, and developers who need structured event, exhibitor, account, and contact workflows before major trade shows.
-
-### Start Here
-
-| If you are... | Start with | Outcome |
+| What you want to do | Start here | What you get |
 |:---|:---|:---|
-| A sales or GTM team | [Start Lensmor free](https://app.lensmor.com/signup?utm_source=github&utm_medium=readme&utm_campaign=org-profile) | Move from event discovery to prioritized accounts, decision-makers, and contact-ready workflows |
-| A developer | [API Docs](https://api.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=org-profile) | Build with event, exhibitor, personnel, contact, and profile-matching APIs |
-| An agent workflow builder | [trade-show-skills](https://github.com/LensmorOfficial/trade-show-skills) | OpenClaw skills for show selection, outreach, budgeting, onsite qualification, and post-show follow-up |
-| A market researcher | [trade-show-calendar](https://github.com/LensmorOfficial/trade-show-calendar) and [trade-show-world-map](https://github.com/LensmorOfficial/trade-show-world-map) | Open trade show datasets and visual exploration |
-| A contributor | [awesome-trade-shows](https://github.com/LensmorOfficial/awesome-trade-shows) | Help maintain the public trade show resource graph |
+| Choose a show and plan your outreach | [Trade Show Skills](https://github.com/LensmorOfficial/trade-show-skills#try-it-in-60-seconds) | 15 OpenClaw skills with worked examples for planning, booth execution, and follow-up |
+| Research events without signing up | [Calendar](https://lensmorofficial.github.io/trade-show-calendar/) · [World map](https://lensmorofficial.github.io/trade-show-world-map/) | Public event data and filters; confirm the edition and dates with the organizer |
+| Estimate ROI or prepare your booth | [Free browser tools](https://lensmorofficial.github.io/trade-show-tools/) | Calculators and planning tools for trade show teams |
+| Connect event intelligence to your workflow | [API quickstart](https://api.lensmor.com/guides/quickstart) · [API source](https://github.com/LensmorOfficial/API-Doc) | Documented event, exhibitor, personnel, and contact APIs |
+| Build a qualified prospect list | [Lensmor app](https://app.lensmor.com/signup?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=prospecting) | Event discovery, account research, and available decision-maker contacts |
 
-### Open Source
+The public resources are free to explore. Most planning skills work without a Lensmor API key. API access requires a paid Lensmor subscription; see [authentication](https://api.lensmor.com/authentication) before building an integration.
 
-We believe the trade show industry benefits from open data and shared knowledge.
+### Featured projects
 
-#### Featured
+| Project | Use it for | Contribute |
+|:---|:---|:---|
+| [trade-show-skills](https://github.com/LensmorOfficial/trade-show-skills) | Reusable AI workflows across the trade show lifecycle | [Improve a skill or example](https://github.com/LensmorOfficial/trade-show-skills/blob/main/CONTRIBUTING.md) |
+| [API-Doc](https://github.com/LensmorOfficial/API-Doc) | REST API documentation, OpenAPI, and agent-readable references | [Report a documentation problem](https://github.com/LensmorOfficial/API-Doc/issues/new/choose) |
+| [trade-show-calendar](https://github.com/LensmorOfficial/trade-show-calendar) | Downloadable CSV/JSON event data and an interactive calendar | [Submit an event or date correction](https://github.com/LensmorOfficial/trade-show-calendar/issues/new/choose) |
+| [awesome-trade-shows](https://github.com/LensmorOfficial/awesome-trade-shows) | Discover shows, industry associations, and useful resources | [Suggest a resource](https://github.com/LensmorOfficial/awesome-trade-shows/issues/new/choose) |
+| [trade-show-tools](https://github.com/LensmorOfficial/trade-show-tools) | Free browser tools for event planning and qualification | [Report a bug](https://github.com/LensmorOfficial/trade-show-tools/issues/new/choose) |
+| [trade-show-world-map](https://github.com/LensmorOfficial/trade-show-world-map) | Explore events by geography and industry | [Improve coverage](https://github.com/LensmorOfficial/trade-show-world-map/issues/new/choose) |
 
-| Repository | Stars | Description |
-|:---|:---:|:---|
-| [trade-show-skills](https://github.com/LensmorOfficial/trade-show-skills) | ![](https://img.shields.io/github/stars/LensmorOfficial/trade-show-skills?style=flat-square&label=) | OpenClaw skills for trade show planning, outreach, and lead qualification |
-| [awesome-trade-shows](https://github.com/LensmorOfficial/awesome-trade-shows) | ![](https://img.shields.io/github/stars/LensmorOfficial/awesome-trade-shows?style=flat-square&label=) | Curated list of trade shows, event tech tools, and resources worldwide |
-| [trade-show-email-templates](https://github.com/LensmorOfficial/trade-show-email-templates) | ![](https://img.shields.io/github/stars/LensmorOfficial/trade-show-email-templates?style=flat-square&label=) | Ready-to-use email templates for pre-show, onsite, and post-show outreach |
+### Playbooks and outreach templates
 
-#### Data & Tools
+- [Exhibitor Intelligence Playbook](https://github.com/LensmorOfficial/exhibitor-intelligence-playbook) — research, outreach, booth execution, and ROI measurement.
+- [Email templates](https://github.com/LensmorOfficial/trade-show-email-templates) — pre-show invitations and post-show follow-up.
+- [LinkedIn templates](https://github.com/LensmorOfficial/trade-show-linkedin-templates) — connection requests and conversation starters.
+- [Event Tech Landscape](https://github.com/LensmorOfficial/event-tech-landscape) — compare event platforms, lead capture tools, and related categories.
 
-| Repository | Description |
-|:---|:---|
-| [trade-show-calendar](https://github.com/LensmorOfficial/trade-show-calendar) | Open dataset of global trade shows — CSV/JSON, dates, locations, industries |
-| [trade-show-world-map](https://github.com/LensmorOfficial/trade-show-world-map) | Interactive world map of 200+ trade shows — filter by region and industry |
-| [trade-show-tools](https://github.com/LensmorOfficial/trade-show-tools) | 9 free AI tools — ROI calculator, ICP matcher, badge qualifier, and more |
-| [API-Doc](https://github.com/LensmorOfficial/API-Doc) | Lensmor REST API docs — access event, exhibitor, personnel, contact, and profile-matching workflows |
+### Help make these resources more useful
 
-#### Playbooks & Templates
+Small contributions are welcome: correct one event date with an official source, improve one example, fix a broken link, or document a reproducible bug. Open an issue in the relevant repository, or follow our [contributing guide](https://github.com/LensmorOfficial/.github/blob/main/CONTRIBUTING.md) to send a pull request.
 
-| Repository | Description |
-|:---|:---|
-| [exhibitor-intelligence-playbook](https://github.com/LensmorOfficial/exhibitor-intelligence-playbook) | End-to-end B2B trade show ROI playbook — research to conversion |
-| [event-tech-landscape](https://github.com/LensmorOfficial/event-tech-landscape) | Comprehensive map of 100+ tools powering the trade show industry |
-| [trade-show-linkedin-templates](https://github.com/LensmorOfficial/trade-show-linkedin-templates) | 30+ LinkedIn message templates for exhibitor prospecting and follow-up |
+For product or account help, visit the [Lensmor Help Center](https://help.lensmor.com/). For sensitive reports, follow our [security policy](https://github.com/LensmorOfficial/.github/blob/main/SECURITY.md).
 
-### Get Involved
-
-- **[Start Lensmor free](https://app.lensmor.com/signup?utm_source=github&utm_medium=readme&utm_campaign=org-profile)** — explore events and begin a pre-show workflow
-- **Star [trade-show-skills](https://github.com/LensmorOfficial/trade-show-skills)** — our most popular repo, automates trade show workflows with AI
-- **Contribute to [awesome-trade-shows](https://github.com/LensmorOfficial/awesome-trade-shows)** — PRs welcome, help us build the definitive trade show directory
-- **Try [trade-show-tools](https://lensmorofficial.github.io/trade-show-tools/)** — 9 free browser-based tools, no signup required
-- **Follow [@Lensmor_ai](https://twitter.com/Lensmor_ai)** for trade show industry insights
+[Visit Lensmor](https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=footer) · [Book a demo](https://calendly.com/shirleyan_lensmor/30min?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=footer)

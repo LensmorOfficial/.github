@@ -1,0 +1,25 @@
+name: Resource or factual correction
+description: Fix an event date, broken link, tool description, or other sourced fact
+title: "Correction: "
+body:
+  - type: input
+    id: location
+    attributes:
+      label: Affected resource
+      description: Link to the row, page, or file that needs a correction.
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Proposed correction
+      description: State the current value and the corrected value. Include the edition year for events.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Official source URL
+      description: Prefer an organizer, venue, association, or vendor page that supports this change.
+    validations:
+      required: true
